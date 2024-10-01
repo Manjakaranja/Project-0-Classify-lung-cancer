@@ -1,4 +1,4 @@
-# Project Title: Project 0 CLC
+# Project Title: Project 0 Chopper
 
 ## Overview
 This notebook is intended for **viewing purposes only**. It showcases some of my work and is shared here to provide insights to recruiters or fellow data scientists.
